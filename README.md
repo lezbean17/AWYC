@@ -1,5 +1,5 @@
-# AWYC
-Project Repo for American Workers Youth Coalition
+# AYWC
+Project Repo for American Youth Workers Coalition
 
 ## Project Management
 The Projects tab will contain project management plans, each project can have it's own board.
